@@ -1,0 +1,9 @@
+*rpyb
+*rpyc
+*.txt
+tmp
+*.bak
+game/audio
+game/saves
+game/font
+game/img
